@@ -12,6 +12,24 @@ body {
 
 body {
   background-image: url(image.jpg);
+  background-size: colour;
+  background-size: cover;
+  font-family: sans-serif;
+}
+
+body {
+  background-image: url(image.jpg);
+  background-size: colour;
+  background-size: cover;
+  font-family: sans-serif;
+}
+
+body {
+  background-image: url(image.jpg);
+  background-size:lour;
+  background-size: cover;
+  font-family: sans-serif;
+background-image: url(image.jpg);
   background-size:lour;
   background-size: cover;
   font-family: sans-serif;
